@@ -1,0 +1,2 @@
+In this project, I conducted an in-depth analysis of the Airbnb market using Python, focusing on data cleaning, exploratory data analysis (EDA), and pricing prediction with linear regression models. Additionally, I created an interactive Tableau dashboard to provide visual insights into the data. The objective was to uncover valuable findings and insights to better understand the Airbnb market landscape.
+
